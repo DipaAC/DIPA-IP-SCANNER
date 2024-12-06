@@ -8,6 +8,6 @@ Setalah itu kalian ketikan
 
 $ cd DIPA-IP-SCANNER
 
-$ DIPAIPSCAN
+$ cd DIPAIPSCAN
 
 $ python scan.py
